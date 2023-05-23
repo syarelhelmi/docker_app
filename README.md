@@ -11,8 +11,8 @@ root@syaril:~/Assignment# vim Dockerfile
 root@syaril:~/Assignment# vim Dockerfile
 root@syaril:~/Assignment# vim docker-compose.yml
 root@syaril:~/Assignment# docker-compose up -d
+![Uploading nginx.jpg…]()
 
-----------------------------------------------------------------------------
 root@syaril:~/Assignment# vim Dockerfile
 root@syaril:~/Assignment# vim docker-compose
 root@syaril:~/Assignment# vim docker-compose.yml
